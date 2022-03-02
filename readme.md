@@ -11,4 +11,4 @@ LS, TLS and RANSAC are techniques to data fitting techniques which find the best
 </p>
 
 ### Output Plots showing the trajectory
-<img src="https://github.com/jayesh68/LS-TLS-and-RANSAC/blob/main/Output_Plots.png" width="550" height="550" />
+<img src="https://github.com/jayesh68/LS-TLS-and-RANSAC/blob/main/Output_Plots.png" />
