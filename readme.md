@@ -10,9 +10,5 @@ LS, TLS and RANSAC are techniques to data fitting techniques which find the best
 <img src="https://github.com/jayesh68/LS-TLS-and-RANSAC/blob/main/Ball_travel_2_updated.gif" width="350" height="350" />
 </p>
 
-
-### Approach
-1. Read the video files frame by frame.
-2. Filter out the red ball from the rest of the image by using color segmentation rechniques such as HSV and obtain the xy coordinates of the ball in each frame.
-3. To obtain the solution using OLS solve for X in AX=Y wher X= (ATA)-1. (ATB).
+### Output Plots showing the trajectory
 
