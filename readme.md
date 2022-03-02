@@ -12,3 +12,9 @@ LS, TLS and RANSAC are techniques to data fitting techniques which find the best
 
 ### Output Plots showing the trajectory
 <img src="https://github.com/jayesh68/LS-TLS-and-RANSAC/blob/main/Output_Plots.png" />
+
+### Analysis
+Based on the above plots the following conclusions can be made.
+1. The LS and TLS plots try to cover almost all the points in the for video 2 whereas RANSAC ignores some points as outliers and covers only those which are inliers.
+2. TLS performs better than OLS as it looks to minimize the error for both the dependant and the independent variable.
+3. The other advantage of using RANSAC is the function runs a certain number of times till it finds the best fit which are consistent with an estimated model (in this case the least squares model). The model with the maximum number of inlier points is chosen as the best fit model.
