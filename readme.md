@@ -20,5 +20,5 @@ Based on the above plots the following conclusions can be made.
 3. The other advantage of using RANSAC is the function runs a certain number of times till it finds the best fit which are consistent with an estimated model (in this case the least squares model). The model with the maximum number of inlier points is chosen as the best fit model.
 
 ### Instructions to run the code
-1. HW1_P2.py consists of the code to run the least squares, TLS and RANSAC method. This would create 2 subplots for the two videos with all the 3 methods being plotted for each videp
+1. HW1_P2.py consists of the code to run the least squares, TLS and RANSAC method. This would create 2 subplots for the two videos with all the 3 methods being plotted for each video.
 2. The command to run the program is $python3 HW1_P2.py.
