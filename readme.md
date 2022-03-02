@@ -7,4 +7,4 @@ LS, TLS and RANSAC are techniques to data fitting techniques which find the best
  ### Input Video showing the trajectory of a ball
  
 Ball_travel_10fps.mp4
-![alt text](https://drive.google.com/file/d/1aIvsUHME_qOzq7ao1o_-v7euRN8ckVwW/view?usp=sharing)
+![alt text](https://github.com/jayesh68/LS-TLS-and-RANSAC/blob/main/Ball_travel_10fps.gif)
