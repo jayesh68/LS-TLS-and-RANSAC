@@ -8,4 +8,3 @@ LS, TLS and RANSAC are techniques to data fitting techniques which find the best
  
 <img src="https://github.com/jayesh68/LS-TLS-and-RANSAC/blob/main/Ball_travel_10fps.gif" width="40" height="40" />
 
-<img src="https://github.com/jayesh68/LS-TLS-and-RANSAC/blob/main/Ball_travel_2_updated.gif" width="20" height="20" />
